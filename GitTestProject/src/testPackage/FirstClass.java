@@ -9,6 +9,8 @@ public class FirstClass {
 		System.out.println("Rather a test class");
 		
 		System.out.println("Poruka Sasa");
+		
+		System.out.println("Poruka Nenad");
 
 	}
 
